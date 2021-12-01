@@ -1,11 +1,11 @@
 body{
-    background-color: pink;
+    background-color: rgb(75, 72, 72);
 }
 
 .container{
     text-align: center;
-    color: deeppink;
-    background-color: oldlace;
+    color: rgb(209, 224, 224);
+    background-color: rgb(71, 69, 66);
     padding: 1rem 0.5rem;
 }
 
